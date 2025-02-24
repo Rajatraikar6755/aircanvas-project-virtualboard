@@ -1,8 +1,8 @@
-Here’s a well-structured README description for your GitHub repository:  
+Here’s the updated README with the correct file name:  
 
 ---
 
-# Hand Gesture Drawing App 🎨✋  
+# AirCanvas Project - Virtual Board 🎨✋  
 
 This is a **Hand Gesture Drawing Application** built using **OpenCV** and **Mediapipe**. It allows users to draw on a virtual canvas using hand gestures detected by a webcam.  
 
@@ -15,7 +15,7 @@ This is a **Hand Gesture Drawing Application** built using **OpenCV** and **Medi
 ✅ **Clear Canvas** – Reset the canvas.  
 
 ## Requirements  
-Ensure you have **Python 3.10** installed along with the required dependencies:  
+Ensure you have **Python 3.x** installed along with the required dependencies:  
 
 ```bash
 pip install opencv-python mediapipe numpy
@@ -24,12 +24,12 @@ pip install opencv-python mediapipe numpy
 ## How to Run  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/hand-gesture-drawing.git
-   cd hand-gesture-drawing
+   git clone https://github.com/Rajatraikar6755/aircanvas-project-virtualboard.git
+   cd aircanvas-project-virtualboard
    ```  
 2. **Run the script**  
    ```bash
-   python hand_draw.py
+   python main.py
    ```  
 
 ## Usage Instructions  
@@ -49,4 +49,4 @@ pip install opencv-python mediapipe numpy
 
 ---
 
-Let me know if you need modifications! 🚀
+Let me know if you need any modifications! 🚀
